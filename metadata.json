@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a simple nscale cluster",
+  "description": "This template allows you to deploy a simple nscale cluster.",
+  "summary": "This template takes a minimum amount of parameters and deploys a Linux VM, using the latest patched version.",
+  "githubUsername": "hausdorff",
+  "dateUpdated": "2015-06-05"
+}
